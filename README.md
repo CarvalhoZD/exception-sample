@@ -1,0 +1,2 @@
+# exception-sample
+Exception class
